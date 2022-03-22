@@ -13,7 +13,7 @@ String FirmwareVer = {
   "2.2"
 };
 #define URL_fw_Version "https://raw.githubusercontent.com/kiru-stz/Firmware_Update_OTA/main/bin_version.txt"
-#define URL_fw_Bin "https://raw.githubusercontent.com/kiru-stz/Firmware_Update_OTA/blob/main/fw.bin"
+#define URL_fw_Bin "https://raw.github.com/kiru-stz/Firmware_Update_OTA/main/esp32_ota.ino.esp32.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
 //#define URL_fw_Bin "http://cade-make.000webhostapp.com/firmware.bin"
